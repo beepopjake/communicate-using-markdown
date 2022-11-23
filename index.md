@@ -8,3 +8,8 @@
 
 # Step 3 image
 print('helloword')
+
+# Step 4 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
